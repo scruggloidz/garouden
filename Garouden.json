@@ -1,0 +1,29 @@
+{
+  "title": "Garouden",
+  "description": "",
+  "artist": "Itagaki Keisuke",
+  "author": "Yumemakura Baku, Itagaki Keisuke",
+  "cover": "https://cdn.imgchest.com/files/a85b66a84999.jpg",
+  "chapters": {
+    "48": {
+      "title": "48",
+      "volume": "8",
+      "last_updated": "1775414718",
+      "groups": {
+        "Akephalos": [
+          "https://imgchest.com/p/xny8r3b2w4b"
+        ]
+      }
+    },
+    "49": {
+      "title": "49",
+      "volume": "8",
+      "last_updated": "1775414785",
+      "groups": {
+        "Akephalos": [
+          "https://imgchest.com/p/bp45j3anvy5"
+        ]
+      }
+    }
+  }
+}

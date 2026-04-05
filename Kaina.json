@@ -1,0 +1,33 @@
+{
+  "title": "Kaina - Surugajô Gozenjiai",
+  "description": "",
+  "artist": "Mori Hideki",
+  "author": "Nanjô Norio",
+  "cover": "https://cdn.imgchest.com/files/6c3487455eee.jpg",
+  "chapters": {
+    "1": {
+      "title": "Mumyô Sakanagare",
+      "volume": "1",
+      "last_updated": "1775416036",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/qb4zldaa37j"
+      }
+    },
+    "2": {
+      "title": "Toad Kenpô",
+      "volume": "1",
+      "last_updated": "1775416394",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/m9yx5rxk37q"
+      }
+    },
+    "3": {
+      "title": "Hankan-Ryû Shippûken",
+      "volume": "1",
+      "last_updated": "1775416555",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/qe4gzjvlr7j"
+      }
+    }
+  }
+}

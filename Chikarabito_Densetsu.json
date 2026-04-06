@@ -1,0 +1,177 @@
+{
+  "title": "Chikarabito Densetsu",
+  "description": "",
+  "artist": "Obata Takeshi",
+  "author": "Miyazaki Masaru",
+  "cover": "",
+  "chapters": {
+    "03": {
+      "title": "The Final Dohyou",
+      "last_updated": "1775497760",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7prexk34o"
+      },
+      "volume": "1"
+    },
+    "02": {
+      "title": "Dohyou at Night",
+      "last_updated": "1775497766",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4nqw53b4n"
+      },
+      "volume": "1"
+    },
+    "04": {
+      "title": "Unfulfilled Dreams",
+      "last_updated": "1775497766",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7odw6e2yp"
+      },
+      "volume": "1"
+    },
+    "05": {
+      "title": "The Devil's Magic Word",
+      "last_updated": "1775497782",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqmxnvd72"
+      },
+      "volume": "1"
+    },
+    "06": {
+      "title": "The First Dohyou",
+      "last_updated": "1775497796",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9ryd3mvxa7k"
+      },
+      "volume": "1"
+    },
+    "07": {
+      "title": "An Even Match",
+      "last_updated": "1775497797",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyr39pvxyp"
+      },
+      "volume": "1"
+    },
+    "01": {
+      "title": "Battle for Succession",
+      "last_updated": "1775497817",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7llge9x7x"
+      },
+      "volume": "1"
+    },
+    "09": {
+      "title": "Head-on Clash",
+      "last_updated": "1775497827",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qe4gzjoeq7j"
+      },
+      "volume": "2"
+    },
+    "15": {
+      "title": "Arm's Reach",
+      "last_updated": "1775497856",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/m9yx5rzjp7q"
+      },
+      "volume": "2"
+    },
+    "20": {
+      "title": "Landmark",
+      "last_updated": "1775497874",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7prexv34o"
+      },
+      "volume": "3"
+    },
+    "10": {
+      "title": "Conclusion!",
+      "last_updated": "1775498602",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/m9yx5rzn67q"
+      },
+      "volume": "2"
+    },
+    "11": {
+      "title": "Hanada Blood",
+      "last_updated": "1775498604",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9249mwok87n"
+      },
+      "volume": "2"
+    },
+    "13": {
+      "title": "Something Glimmering",
+      "last_updated": "1775498617",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4nqw5z54n"
+      },
+      "volume": "2"
+    },
+    "12": {
+      "title": "A Rival 'Second'",
+      "last_updated": "1775499794",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/a846qwvjgyx"
+      },
+      "volume": "2"
+    },
+    "14": {
+      "title": "The Rocky of Japan",
+      "last_updated": "1775499799",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7brd8mky5"
+      },
+      "volume": "2"
+    },
+    "16": {
+      "title": "Comrades",
+      "last_updated": "1775499800",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/agyvgqmkwy8"
+      },
+      "volume": "2"
+    },
+    "08": {
+      "title": "Tachiai",
+      "last_updated": "1775499813",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4nqw59w4n"
+      },
+      "volume": "2"
+    },
+    "18": {
+      "title": "Dependent",
+      "last_updated": "1775499827",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7llgev67x"
+      },
+      "volume": "3"
+    },
+    "19": {
+      "title": "The Character for 'Victory'",
+      "last_updated": "1775499831",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9ryd3mvwd7k"
+      },
+      "volume": "3"
+    },
+    "21": {
+      "title": "Bloodline of Hard Work",
+      "last_updated": "1775499840",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ej7mjwgxq7d"
+      },
+      "volume": "3"
+    },
+    "17": {
+      "title": "First Love",
+      "last_updated": "1775499843",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyr39pjkyp"
+      },
+      "volume": "3"
+    }
+  }
+}

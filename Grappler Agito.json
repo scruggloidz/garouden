@@ -1,0 +1,17 @@
+{
+  "title": "Grappler Agito",
+  "description": "",
+  "artist": "Itagaki Keisuke",
+  "author": "Itagaki Keisuke",
+  "cover": "https://cdn.imgchest.com/files/1c5fd5914ece.png",
+  "chapters": {
+    "1": {
+      "title": "The Strongest Wrestler",
+      "volume": "",
+      "last_updated": "1775496921",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/xny8rvgbo4b"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Make-Upper",
+  "description": "",
+  "artist": "Itagaki Keisuke",
+  "author": "Itagaki Keisuke",
+  "cover": "https://cdn.imgchest.com/files/6ee169e2c773.png",
+  "chapters": {
+    "1": {
+      "title": "The Devil Hand Miake Kousei",
+      "volume": "1",
+      "last_updated": "1775496497",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/9249mw8rv7n"
+      }
+    },
+    "2": {
+      "title": "The Result of Endorphins",
+      "volume": "1",
+      "last_updated": "1775496538",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/ne7brdeany5"
+      }
+    },
+    "3": {
+      "title": "Cinderella Boy",
+      "volume": "1",
+      "last_updated": "1775496634",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/9ryd3mgkw7k"
+      }
+    },
+    "4": {
+      "title": "Gravity Spell",
+      "volume": "1",
+      "last_updated": "1775496731",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/o24adqww34l"
+      }
+    }
+  }
+}

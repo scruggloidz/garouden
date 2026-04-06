@@ -1,0 +1,81 @@
+{
+  "title": "Harukanaru Ring",
+  "description": "",
+  "artist": "",
+  "author": "Nakamura Keigo",
+  "cover": "https://cdn.imgchest.com/files/313f0e9156ba.jpg",
+  "chapters": {
+    "1": {
+      "title": "I've Decided!",
+      "volume": "1",
+      "last_updated": "1775474978",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/vj4j5kjlx78"
+      }
+    },
+    "2": {
+      "title": "What Do I Do?!",
+      "volume": "1",
+      "last_updated": "1775475179",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/vj4j5kjr378"
+      }
+    },
+    "3": {
+      "title": "I Don't Care If I Die",
+      "volume": "1",
+      "last_updated": "1775475258",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/xny8rv8b24b"
+      }
+    },
+    "4": {
+      "title": "I'm Not Giving Up!",
+      "volume": "1",
+      "last_updated": "1775475276",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/n87w8dbzx7x"
+      }
+    },
+    "5": {
+      "title": "We Suck So Bad!",
+      "volume": "1",
+      "last_updated": "1775475343",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/o24adqlxd4l"
+      }
+    },
+    "6": {
+      "title": "Yoko Is My Rival!",
+      "volume": "1",
+      "last_updated": "1775475410",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/wl7llg8xx7x"
+      }
+    },
+    "7": {
+      "title": "I Don't Want Your Sympathy!",
+      "volume": "1",
+      "last_updated": "1775475459",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/6eyr39bgxyp"
+      }
+    },
+    "8": {
+      "title": "Let's Go!",
+      "volume": "1",
+      "last_updated": "1775475522",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/9p4nqwaeb4n"
+      }
+    },
+    "9": {
+      "title": "I Won't Yield!",
+      "volume": "1",
+      "last_updated": "1775475588",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/6eyr39bdlyp"
+      }
+    }
+  }
+}

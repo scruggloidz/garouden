@@ -4,414 +4,454 @@
   "artist": "Itagaki Keisuke",
   "author": "Yumemakura Baku, Itagaki Keisuke",
   "cover": "https://cdn.imgchest.com/files/a85b66a84999.jpg",
- "chapters": {
+  "chapters": {
     "007": {
       "title": "",
+      "volume": "02",
       "last_updated": "1775480188",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/qb4zle2ev7j"
-      },
-      "volume": "02"
+      }
     },
     "009": {
       "title": "",
+      "volume": "02",
       "last_updated": "1775480195",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/n87w8dpdb7x"
-      },
-      "volume": "02"
+      }
     },
     "006": {
       "title": "",
+      "volume": "02",
       "last_updated": "1775480200",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/qe4gzj9jb7j"
-      },
-      "volume": "02"
+      }
     },
     "008": {
       "title": "",
+      "volume": "02",
       "last_updated": "1775480205",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/xny8rvnvd4b"
-      },
-      "volume": "02"
+      }
     },
     "011": {
       "title": "",
+      "volume": "02",
       "last_updated": "1775480220",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/m9yx5rp8k7q"
-      },
-      "volume": "02"
+      }
     },
     "010": {
       "title": "",
+      "volume": "02",
       "last_updated": "1775480221",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/a846qwnwvyx"
-      },
-      "volume": "02"
+      }
     },
     "012": {
       "title": "",
+      "volume": "03",
       "last_updated": "1775480226",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/9249mwnpa7n"
-      },
-      "volume": "03"
+      }
     },
     "013": {
       "title": "",
+      "volume": "03",
       "last_updated": "1775480235",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/ne7brd9kvy5"
-      },
-      "volume": "03"
+      }
     },
     "014": {
       "title": "",
+      "volume": "03",
       "last_updated": "1775480250",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/na7k2mpvm78"
-      },
-      "volume": "03"
+      }
     },
     "015": {
       "title": "",
+      "volume": "03",
       "last_updated": "1775480251",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/5xy2xa5884l"
-      },
-      "volume": "03"
+      }
     },
     "016": {
       "title": "",
+      "volume": "03",
       "last_updated": "1775480254",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/vj4j5kpge78"
-      },
-      "volume": "03"
+      }
     },
     "017": {
       "title": "",
+      "volume": "03",
       "last_updated": "1775480265",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/9ryd3m96n7k"
-      },
-      "volume": "03"
+      }
     },
     "019": {
       "title": "",
+      "volume": "04",
       "last_updated": "1775480277",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/n87w8dpxb7x"
-      },
-      "volume": "04"
+      }
     },
     "018": {
       "title": "",
+      "volume": "04",
       "last_updated": "1775480277",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/pg732ga534r"
-      },
-      "volume": "04"
+      }
     },
     "020": {
       "title": "",
+      "volume": "04",
       "last_updated": "1775480281",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/qb4zle28v7j"
-      },
-      "volume": "04"
+      }
     },
     "021": {
       "title": "",
+      "volume": "04",
       "last_updated": "1775480290",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/a846qwn5vyx"
-      },
-      "volume": "04"
+      }
     },
     "025": {
       "title": "",
+      "volume": "05",
       "last_updated": "1775480317",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/md7odwp89yp"
-      },
-      "volume": "05"
+      }
     },
     "031": {
       "title": "",
+      "volume": "06",
       "last_updated": "1775480331",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/6eyr39kl6yp"
-      },
-      "volume": "06"
+      }
     },
     "030": {
       "title": "",
+      "volume": "06",
       "last_updated": "1775480332",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/9ryd3m9rn7k"
-      },
-      "volume": "06"
+      }
     },
     "034": {
       "title": "",
+      "volume": "06",
       "last_updated": "1775480336",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/qb4zle2nv7j"
-      },
-      "volume": "06"
+      }
     },
     "035": {
       "title": "",
+      "volume": "06",
       "last_updated": "1775480338",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/qe4gzj9wb7j"
-      },
-      "volume": "06"
+      }
     },
     "036": {
       "title": "",
+      "volume": "06",
       "last_updated": "1775480345",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/bp45jpvqgy5"
-      },
-      "volume": "06"
+      }
     },
     "037": {
       "title": "",
+      "volume": "06",
       "last_updated": "1775480345",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/o24adq9jw4l"
-      },
-      "volume": "06"
+      }
     },
     "022": {
       "title": "",
+      "volume": "04",
       "last_updated": "1775484018",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/5xy2xavmn4l"
-      },
-      "volume": "04"
+      }
     },
     "026": {
       "title": "",
+      "volume": "05",
       "last_updated": "1775484020",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/na7k2mlqk78"
-      },
-      "volume": "05"
+      }
     },
     "024": {
       "title": "",
+      "volume": "05",
       "last_updated": "1775484023",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/wl7llgjd67x"
-      },
-      "volume": "05"
+      }
     },
     "023": {
       "title": "",
+      "volume": "04",
       "last_updated": "1775484024",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/vj4j5k2j578"
-      },
-      "volume": "04"
+      }
     },
     "033": {
       "title": "",
+      "volume": "06",
       "last_updated": "1775484040",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/pg732gx3v4r"
-      },
-      "volume": "06"
+      }
     },
     "028": {
       "title": "",
+      "volume": "05",
       "last_updated": "1775484049",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/ljyqmx3ee72"
-      },
-      "volume": "05"
+      }
     },
     "029": {
       "title": "",
+      "volume": "05",
       "last_updated": "1775484053",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/9ryd3m8od7k"
-      },
-      "volume": "05"
+      }
     },
     "032": {
       "title": "",
+      "volume": "06",
       "last_updated": "1775484054",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/ej7mjwqrq7d"
-      },
-      "volume": "06"
+      }
     },
     "038": {
       "title": "",
+      "volume": "07",
       "last_updated": "1775484063",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/qb4zlevqg7j"
-      },
-      "volume": "07"
+      }
     },
     "039": {
       "title": "",
+      "volume": "07",
       "last_updated": "1775484068",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/xny8rvkwp4b"
-      },
-      "volume": "07"
+      }
     },
     "040": {
       "title": "",
+      "volume": "07",
       "last_updated": "1775484070",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/bp45jpbrxy5"
-      },
-      "volume": "07"
+      }
     },
     "041": {
       "title": "",
+      "volume": "07",
       "last_updated": "1775484074",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/a846qwbmgyx"
-      },
-      "volume": "07"
+      }
     },
     "042": {
       "title": "",
+      "volume": "07",
       "last_updated": "1775484081",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/agyvgq8bwy8"
-      },
-      "volume": "07"
+      }
     },
     "043": {
       "title": "",
+      "volume": "07",
       "last_updated": "1775484087",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/m9yx5rabm7q"
-      },
-      "volume": "07"
+      }
     },
     "044": {
       "title": "",
+      "volume": "07",
       "last_updated": "1775484093",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/9p4nqwdaw4n"
-      },
-      "volume": "07"
+      }
     },
     "045": {
       "title": "",
+      "volume": "07",
       "last_updated": "1775484094",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/ne7brdzjky5"
-      },
-      "volume": "07"
+      }
     },
     "046": {
       "title": "",
+      "volume": "07",
       "last_updated": "1775484099",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/dl7premb84o"
-      },
-      "volume": "07"
+      }
     },
     "047": {
       "title": "",
+      "volume": "07",
       "last_updated": "1775484104",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/md7odwrkayp"
-      },
-      "volume": "07"
+      }
     },
     "049": {
       "title": "",
+      "volume": "08",
       "last_updated": "1775484124",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/5xy2xavjj4l"
-      },
-      "volume": "08"
+      }
     },
     "050": {
       "title": "",
+      "volume": "08",
       "last_updated": "1775484125",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/wl7llgj8p7x"
-      },
-      "volume": "08"
+      }
     },
     "048": {
       "title": "",
+      "volume": "08",
       "last_updated": "1775484125",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/ljyqmx3be72"
-      },
-      "volume": "08"
+      }
     },
     "051": {
       "title": "",
+      "volume": "08",
       "last_updated": "1775484140",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/9ryd3m8dw7k"
-      },
-      "volume": "08"
+      }
     },
     "054": {
       "title": "",
+      "volume": "08",
       "last_updated": "1775484166",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/lqyew25k3yd"
-      },
-      "volume": "08"
+      }
     },
     "056": {
       "title": "",
+      "volume": "08",
       "last_updated": "1775485080",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/pg732gv9g4r"
-      },
-      "volume": "08"
+      }
     },
     "052": {
       "title": "",
+      "volume": "08",
       "last_updated": "1775485083",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/n87w8do6x7x"
-      },
-      "volume": "08"
+      }
     },
     "053": {
       "title": "",
+      "volume": "08",
       "last_updated": "1775485084",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/lqyew2b3myd"
-      },
-      "volume": "08"
+      }
     },
     "055": {
       "title": "",
+      "volume": "08",
       "last_updated": "1775485084",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/qb4zleo957j"
-      },
-      "volume": "08"
+      }
     },
     "057": {
       "title": "",
+      "volume": "08",
       "last_updated": "1775485118",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/a846qw2azyx"
-      },
-      "volume": "08"
+      }
+    },
+    "001": {
+      "title": "",
+      "volume": "01",
+      "last_updated": "1775505039",
+      "groups": {
+        "Horny Council": "/proxy/api/imgchest/chapter/md7odqg9ryp"
+      }
+    },
+    "002": {
+      "title": "",
+      "volume": "01",
+      "last_updated": "1775505232",
+      "groups": {
+        "Horny Council": "/proxy/api/imgchest/chapter/pg732595g4r"
+      }
+    },
+    "003": {
+      "title": "",
+      "volume": "01",
+      "last_updated": "1775505327",
+      "groups": {
+        "Horny Council": "/proxy/api/imgchest/chapter/pg73259oo4r"
+      }
+    },
+    "004": {
+      "title": "",
+      "volume": "01",
+      "last_updated": "1775505579",
+      "groups": {
+        "Horny Council": "/proxy/api/imgchest/chapter/xny8r5x9w4b"
+      }
+    },
+    "005": {
+      "title": "",
+      "volume": "01",
+      "last_updated": "1775505596",
+      "groups": {
+        "Horny Council": "/proxy/api/imgchest/chapter/n87w8x68q7x"
+      }
     }
   }
 }

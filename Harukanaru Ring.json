@@ -109,6 +109,14 @@
         "Akephalos": "/proxy/api/imgchest/chapter/agyvgqbxzy8"
       }
     },
+    "14": {
+      "title": "Slay the Monster!",
+      "volume": "4",
+      "last_updated": "1775565804",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/md7odqkelyp"
+      }
+    },
     "15": {
       "title": "Beat Her Ass!",
       "volume": "2",
@@ -213,12 +221,12 @@
         "Akephalos": "/proxy/api/imgchest/chapter/ej7mjwogn7d"
       }
     },
-    "30": {
-      "title": "I'm So Sorry!",
+    "28": {
+      "title": "Yoko's Big Mistake",
       "volume": "4",
-      "last_updated": "1775495319",
+      "last_updated": "1775495347",
       "groups": {
-        "Akephalos": "/proxy/api/imgchest/chapter/xny8rvg2d4b"
+        "Akephalos": "/proxy/api/imgchest/chapter/agyvgq3lzy8"
       }
     },
     "29": {
@@ -229,20 +237,20 @@
         "Akephalos": "/proxy/api/imgchest/chapter/qe4gzjapb7j"
       }
     },
+    "30": {
+      "title": "I'm So Sorry!",
+      "volume": "4",
+      "last_updated": "1775495319",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/xny8rvg2d4b"
+      }
+    },
     "31": {
       "title": "This Sucks!",
       "volume": "4",
       "last_updated": "1775495336",
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/a846qwe6vyx"
-      }
-    },
-    "28": {
-      "title": "Yoko's Big Mistake",
-      "volume": "4",
-      "last_updated": "1775495347",
-      "groups": {
-        "Akephalos": "/proxy/api/imgchest/chapter/agyvgq3lzy8"
       }
     },
     "32": {

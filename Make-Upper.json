@@ -36,6 +36,22 @@
       "groups": {
         "Akephalos": "/proxy/api/imgchest/chapter/o24adqww34l"
       }
+    },
+    "21.1": {
+      "title": "MAKER Part 1",
+      "volume": "3",
+      "last_updated": "1776023795",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/ljyqm5n6e72"
+      }
+    },
+    "21.2": {
+      "title": "MAKER Part 2",
+      "volume": "3",
+      "last_updated": "1776023822",
+      "groups": {
+        "Akephalos": "/proxy/api/imgchest/chapter/o24adnzdg4l"
+      }
     }
   }
 }

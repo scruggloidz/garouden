@@ -1,0 +1,17 @@
+{
+  "title": "The Barbarian",
+  "description": "",
+  "artist": "Matsumoto Taiyô",
+  "author": "Matsumoto Taiyô, Cyril Pedrosa",
+  "cover": "https://cdn.imgchest.com/files/2ffc7b91410e.png",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1779206571",
+      "groups": {
+        "Akephalos, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/o24aorm9wyl"
+      }
+    }
+  }
+}

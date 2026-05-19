@@ -6,11 +6,19 @@
   "cover": "https://cdn.imgchest.com/files/2ffc7b91410e.png",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "Shôbei's Tale Part 1",
       "volume": "1",
       "last_updated": "1779206571",
       "groups": {
         "Akephalos, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/o24aorm9wyl"
+      }
+    },
+    "2": {
+      "title": "Shôbei's Tale Part 2",
+      "volume": "1",
+      "last_updated": "1779206734",
+      "groups": {
+        "Akephalos, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/o24aormewyl"
       }
     }
   }
